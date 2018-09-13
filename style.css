@@ -1,0 +1,34 @@
+body {
+    background-color: dodgerblue;        
+}
+body h1{
+    text-align: center;
+}
+a button {
+    color: whitesmoke;
+    background-color:cornflowerblue;
+    text-decoration: none;
+    border-radius: 10px;
+    height: 25px;
+}
+a button:hover {
+    color: black;
+    cursor: pointer;
+}
+p {
+    text-align: justify;
+}
+.text-putih{
+    color: white;
+}
+.ubuntu-font{
+    font-family: ubuntu;
+}
+#about img{
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 80px;
+}
